@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "StoryGazer",
+  "base_artist": "Yushi",
+  "createdAt": "2026-02-23T05:59:26.462822Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "StoryGazer (feat. 七海うらら)",
+      "artist": "Yushi",
+      "has_synced": false,
+      "path": "select/pl_01_StoryGazer_(feat._七海うらら)_Yushi.txt"
+    }
+  ]
+}
